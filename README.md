@@ -6,3 +6,5 @@ Awesome repos and projects that I stumble upon
 * Self Hosted Push Notifications : https://github.com/gotify
 * Command Correction Linux : https://github.com/nvbn/thefuck
 * Awesome First PR opportunities List : https://github.com/MunGell/awesome-for-beginners
+* Automatically invite authors of merged PRs to your organization : https://github.com/erickzhao/invite-contributors
+
